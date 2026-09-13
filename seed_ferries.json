@@ -13,7 +13,7 @@
     {"id": "TOL_PORT", "name": "Toledo Port", "city": "Toledo", "island": "Cebu", "latitude": 10.3776, "longitude": 123.6389, "aliases": "Cebu Toledo Arcade"},
     {"id": "OSLOB_PORT", "name": "Oslob Port (Mainit)", "city": "Oslob", "island": "Cebu", "latitude": 9.4547, "longitude": 123.3736, "aliases": "Oslob, Cebu"},
     {"id": "PAL_PORT", "name": "Palompon Port", "city": "Palompon", "island": "Leyte", "latitude": 11.1364, "longitude": 124.3872, "aliases": "Palompon Ferry Terminal"},
-    {"id": "BATO_PORT", "name": "Bato Port", "city": "Bato", "island": "Leyte", "latitude": 10.3392, "longitude": 124.7972, "aliases": ""},
+    {"id": "BATO_PORT", "name": "Bato Port", "city": "Samboan", "island": "Cebu", "latitude": 9.4729, "longitude": 123.3200, "aliases": "Port of Bato|Bato, Samboan"},
     {"id": "UBAY_PORT", "name": "Ubay Port", "city": "Ubay", "island": "Bohol", "latitude": 10.0489, "longitude": 124.4711, "aliases": ""},
     {"id": "BCD_PORT", "name": "Bacolod Port", "city": "Bacolod City", "island": "Negros", "latitude": 10.6603, "longitude": 122.9422, "aliases": "Bacolod Ferry Terminal|Banago Port"},
     {"id": "ILO_PORT", "name": "Iloilo Port", "city": "Iloilo City", "island": "Panay", "latitude": 10.6970, "longitude": 122.5650, "aliases": "Iloilo Ferry Terminal"},
